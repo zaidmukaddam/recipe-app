@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "332199071032",
+    "project_id": "spoonacular-app",
+    "storage_bucket": "spoonacular-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332199071032:android:70b5f32fdb1d0739cac5cd",
+        "android_client_info": {
+          "package_name": "com.zaid.recipe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "332199071032-ogbtuit401jb204c8rl68cpri2p95rif.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zaid.recipe",
+            "certificate_hash": "2ed48b2050739308bb2f512345fbb7a9e81e13b4"
+          }
+        },
+        {
+          "client_id": "332199071032-cd9ept6vnb27a98ri7dlosdobgh9utop.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJFEb3pgX-u3H-8vAJH-4PLyR02REvNdc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "332199071032-cd9ept6vnb27a98ri7dlosdobgh9utop.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
